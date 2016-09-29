@@ -25,7 +25,7 @@
 	  <form action="index.php" method="POST"> <!-- Start of form -->
 			<div class="form-group"> <!-- Email text field -->
 	      <label for="email">Email:</label>
-	      <input required type="email" class="form-control" name="email" id="email" placeholder="Example: yourname@valdosta.edu"> <!-- created validation for email -->
+	      <input required type="email" class="form-control" name="email" id="email" placeholder="Example: yourname@something.edu"> <!-- created validation for email -->
     	</div>
 
 			<div class="form-group"> <!-- Drop down for future plans -->
